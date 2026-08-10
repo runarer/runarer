@@ -1,4 +1,9 @@
 ## Hi there 👋
+My main focus at this time is to figure out how and where AI fits into software development.
+
+When I have time and feel motivated, I'm working on my goal to finish all 524 [Advent of code](adventofcode.com) challanges. 
+Now I'm using it to learn some [rust](rust-lang.org).
+
 
 <!--
 **runarer/runarer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
