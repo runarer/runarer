@@ -1,8 +1,8 @@
 ## Hi there 👋
 My main focus for now is to figure out how and where AI fits into software development.
 
-When I have time and feel motivated, I'm working on my goal to finish all 524 [Advent of code](https://adventofcode.com) challanges. 
-Now I'm using it to learn some [rust](https://rust-lang.org).
+When I have time and feel motivated, I'm working on my goal to finish all 524 [Advent of code](https://adventofcode.com) challanges (around 415 completed). 
+I'm also using it to learn some [rust](https://rust-lang.org).
 
 
 <!--
